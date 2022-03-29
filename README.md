@@ -1,3 +1,5 @@
+LOCAL
+
 # mergeandconflict
 
 add few lines
